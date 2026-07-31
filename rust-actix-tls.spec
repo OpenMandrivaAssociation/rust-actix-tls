@@ -5,8 +5,8 @@
 %global crate actix-tls
 
 Name:           rust-%{crate}
-Version:        1.0.0
-Release:        3%{?dist}
+Version:        3.5.0
+Release:        1%{?dist}
 Summary:        Actix tls services
 
 # Upstream license specification: MIT/Apache-2.0
